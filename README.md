@@ -20,7 +20,7 @@ Frontend challenge from [Frontmentor](https://www.frontendmentor.io/challenges/t
 ## Download:
 
 ```
-git clone (https://github.com/rsantanacatalan/tip-calculator.git)
+git clone https://github.com/rsantanacatalan/tip-calculator.git
 ```
 
 
