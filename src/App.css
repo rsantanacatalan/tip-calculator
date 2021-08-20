@@ -276,3 +276,8 @@ input[type="radio"]:checked + label{
   flex-direction: column;
   
 }
+
+.Icon{
+  position: absolute;
+  padding: 1rem;
+}

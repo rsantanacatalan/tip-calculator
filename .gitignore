@@ -1,1 +1,15 @@
 node_modules
+build/asset-manifest.json
+build/index.html
+build/manifest.json
+build/robots.txt
+build/static/css/main.eb505fa8.chunk.css
+build/static/css/main.eb505fa8.chunk.css.map
+build/static/js/2.89d8a228.chunk.js
+build/static/js/2.89d8a228.chunk.js.LICENSE.txt
+build/static/js/2.89d8a228.chunk.js.map
+build/static/js/main.9615a6aa.chunk.js
+build/static/js/main.9615a6aa.chunk.js.map
+build/static/js/runtime-main.2513ba1a.js
+build/static/js/runtime-main.2513ba1a.js.map
+build/static/media/logo.3cc0528b.svg

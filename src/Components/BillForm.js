@@ -1,3 +1,7 @@
+import logo from '../Images/logo.svg';
+
+import person from '../Images/icon-person.svg';
+import dollar from '../Images/icon-dollar.svg';
 function BillForm({ SetTotalForm, SetPeopleForm, SetTip, PeopleForm, TotalForm, SetReset, Radio, checkedRadio, SetRadio}) {
 
 	
@@ -30,7 +34,7 @@ function BillForm({ SetTotalForm, SetPeopleForm, SetTip, PeopleForm, TotalForm, 
 			<h4>Bill:</h4>
 			<div className="">
 				<span>
-					<img alt=" " src="/icon-dollar.svg"></img>
+					<img className="Icon" alt=" " src={person}></img>
 				</span>
 				<input
 					name="inputTotal"
@@ -103,8 +107,8 @@ function BillForm({ SetTotalForm, SetPeopleForm, SetTip, PeopleForm, TotalForm, 
 
 			<h4>Number of People</h4>
 			<div className="">
-				<span>
-					<img alt=" " src="/icon-person.svg"></img>
+				<span className="Icon">
+					<img alt=" " src={dollar}></img>
 				</span>
 				<input
 					name="inputPeople"
